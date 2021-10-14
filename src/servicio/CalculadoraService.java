@@ -64,5 +64,6 @@ public class CalculadoraService {
         c1.setVarResultado(suma);
         System.out.println("El numero binario es: " + c1.getVarNumero());
         System.out.println("El numero decimal es: " + c1.getVarResultado());
+        System.out.println("--- Gracias por usar esta calculadora ---");
     }
 }
